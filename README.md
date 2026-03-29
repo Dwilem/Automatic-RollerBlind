@@ -8,7 +8,7 @@ To save time and make your room more futuristic.
 
 # Notes
 
-- Due to my rollerblind autolocking mechanism, i couldn't spin stepper motor, but perhaps for you mechanism this design might work.
+- Due to my rollerblind autolocking mechanism, i couldn't spin stepper motor, but perhaps for your mechanism this design might work.
 - For this design you have to convert unipolar stepper motor into bipolar stepper motor. 
 
 # Wiring
